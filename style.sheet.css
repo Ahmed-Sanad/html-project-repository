@@ -1,0 +1,46 @@
+body
+{
+    background:#84e8d6; 
+
+}
+p
+{
+  direction:ltr;
+  font:20px bold ;
+
+  
+}
+div.photo
+{
+  background:url(home.png.jpg) fixed no-repeat 90% 0% ;
+  border:1px solid #000;
+  
+}
+div.list
+{
+  direction:ltr;
+  color:#00f;
+  text-align:left;
+}
+a
+{
+  text-decoration:none;
+ 
+}
+a:hover
+{
+  font-size:20px;
+  font-weight:bold;
+  text-decoration:underline;
+  color:#E80B84;
+}
+a:active
+{
+  text-decoration:none
+  
+  
+  
+}
+
+
+       
